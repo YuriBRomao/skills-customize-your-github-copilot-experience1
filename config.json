@@ -91,6 +91,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-file-automation",
+      "title": "Automação de Arquivos em Python",
+      "description": "Os alunos vão praticar leitura e escrita de arquivos CSV em Python, transformando dados brutos em informações organizadas e fáceis de consultar.",
+      "path": "assignments/python-file-automation",
+      "dueDate": "2026-08-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
